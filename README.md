@@ -14,12 +14,12 @@ And get to know me in unique style.
 ### I spent a non-trivial amount of effort & time designing and customising this iteration of npx card, and I am proud of it! All I ask of you all is to put a **star** ⭐ on this project and not claim this effort as your own ♥.
 
 
-
+<!-- 
 ## SCREENSHOT
 
 The final output might look something like this:
 
-![image](https://github.com/ShreyamMaity/npx-card/blob/main/demo.gif)
+![image](https://github.com/ShreyamMaity/npx-card/blob/main/demo.gif) -->
 
 
 ## 🛠 Installation & Set Up
